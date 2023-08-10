@@ -1,0 +1,2 @@
+# FullStackCakes
+MERN, TypesScript, Tailwind
